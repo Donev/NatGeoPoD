@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NatGeo Photo of the Day</string>
+    <string name="button">Preview Photo</string>
+    <string name="button2">Set as WallPaper</string>
+</resources>
